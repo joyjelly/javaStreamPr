@@ -1,0 +1,5 @@
+{pno=0, name='상품0', company='회사', price=763}
+{pno=1, name='상품1', company='회사', price=2953}
+{pno=2, name='상품2', company='회사', price=1802}
+{pno=3, name='상품3', company='회사', price=3659}
+{pno=4, name='상품4', company='회사', price=2384}
